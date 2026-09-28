@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,40,medium,Camera nhin thang ve phia truoc; canh thuong gap nen lay nhieu de co nen so sanh
+front,hard,20,high,Xe va nguoi o xa hoac di nhanh; vat nho de sot; can review ky
+rear,normal,30,medium,Canh lui xe va bai do; it xe chay nhanh nen rui ro vua
+rear,hard,20,high,Vat thap hoac sat xe khi lui; de bi che boi than xe
+left,normal,25,medium,Canh ben trai thuong gap; xe dang do va cot sat le
+left,hard,20,high,Nguoi va xe hai banh sat than xe; mep anh bi meo fisheye
+right,normal,25,medium,Canh ben phai thuong gap; tuong tu camera trai
+right,hard,20,high,Vat bi cat o bien anh va vung loai tru; de nham truncated va occluded
