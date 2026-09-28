@@ -9,13 +9,11 @@
     "nguyenductung": "B2-center",
     "nguyentrongthang": "B3-mid"
   },
-  "self": "cuducquang",
-  "slice": "B3-dense",
+  "self": "nguyenductung",
+  "slice": "B2-center",
   "degrade": [],
-  "current_slice": "B3-dense",
+  "current_slice": "C0",
   "support_prefill": false,
   "support_slice": "",
-  "prefill_box_ids": [
-    "adasind_145860.jpg:1"
-  ]
+  "prefill_box_ids": []
 }
