@@ -1,0 +1,5 @@
+✓ Python 3.11
+✓ CVAT 2.75.0
+! CVAT khác 2.74.x; kiểm tra API quality
+✓ Git không track .env
+✓ Repo PUBLIC
